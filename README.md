@@ -1,4 +1,4 @@
-# Noisy-ActionDataset
+# Noisy-Activity Dataset
 The dataset collected at the Muroran Institute of Technology during 2017,has been captured using a common digital camera.
 It includes 7 activities:pick up,put on,walk,play tennis,push,tight lace,bow.
 During acquisition, 4subjects were asked to perform the above actions for 3 times.
